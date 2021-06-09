@@ -1,3 +1,3 @@
 # README
 
-I have added another content.
+I have added another content. - Rich
